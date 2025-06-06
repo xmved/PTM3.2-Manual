@@ -13,7 +13,7 @@ Window >> Package Manager >> "**My Assets**".
 
 <img src="https://raw.githubusercontent.com/xmved/PTM3.2-Manual/refs/heads/main/images/How%20to%20Start/7cd43486-69d4-40e9-9fb5-be63b4464f25;.png"/>
 
-(2) Setup the "Build Settings" or "Build Profiles".
+(2) Setup the "**Build Settings**" or "**Build Profiles**".
 
 We need to setup the "**Build Settings**" (Unity 2021, 2022) or "**Build Profiles**" (Unity 6000) to play the demo scenes.
 
