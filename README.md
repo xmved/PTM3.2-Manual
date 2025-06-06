@@ -1,1 +1,0 @@
-# copyright to chobi-glass
