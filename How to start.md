@@ -1,8 +1,8 @@
-#'How to Start'
+# 'How to Start'
 
 (1) Create a new project, and import this package from Package Manager.
 
-Window >> Package Manager >> "My Assets".
+Window >> Package Manager >> "**My Assets**".
 
 **[Unity 2021, 2022]**
 
@@ -15,9 +15,9 @@ Window >> Package Manager >> "My Assets".
 
 (2) Setup the "Build Settings" or "Build Profiles".
 
-We need to setup the "Build Settings" (Unity 2021, 2022) or "Build Profiles" (Unity 6000) to play the demo scenes.
+We need to setup the "**Build Settings**" (Unity 2021, 2022) or "**Build Profiles**" (Unity 6000) to play the demo scenes.
 
-[Unity 2021, 2022]
+**[Unity 2021, 2022]**
 
 1. Open the "**Build Settings**" window.
 
