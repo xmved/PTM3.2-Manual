@@ -15,7 +15,7 @@
 
 Обязательно нарисуйте или смоделируйте свой контейнер.
 
-Вы можете выбрать вид контейнера как у wargaming[1^] так и у lesta[2^]
+Вы можете выбрать вид контейнера как у wargaming[^1] так и у lesta[^2]
 
 > [!TIP]
 > Рекомендуемый размер изображения `320 x 386`
@@ -24,5 +24,23 @@
 
 
 
-[1^]:<img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_1.png"/>
-[2^]:<img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_2.png"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]:<img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_1.png"/>
+[^2]:<img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_2.png"/>
