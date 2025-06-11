@@ -1,3 +1,5 @@
+# *DEV_MANUAL_HG_02*
+
 Загрузите компоненты **Hangar_Camera_Scripts** в папку с **C#_Scripts**
 
 
@@ -28,3 +30,20 @@
 #
 
 
+Настройки такие как **Horizontal_Speed**/**Vertical_Speed** не используются за место них применяется модификатор **multiple**
+
+Также не применяется аргумент **AllowSwitchRotateType** заменяется как
+```csharp
+public scroll;
+[Range(0, 2)] public switchType = 1;
+```
+
+#
+
+Для загрузки камеры достаточно оставить одну точку для всех танков.
+Распаковка танков в ангаре является другой группой нежели для подготовленных к бою машин.
+
+```csharp
+Load.Prefab = null;
+// if argument
+```
