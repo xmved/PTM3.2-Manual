@@ -20,4 +20,4 @@
 >
 
 
-<image url:"https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_1.png">
+<img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_1.png"/> или <img src="https://raw.githubusercontent.com/xmved/SpaceBlitz-Manual/refs/heads/main/images/0/Container_template_2.png"/>
