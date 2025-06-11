@@ -4,6 +4,8 @@
 ```csharp
 using UnityEngine;
 
+namespace xmved.general
+
 public class UIBlocker : MonoBehaviour
 
 {
